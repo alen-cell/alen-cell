@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alen-cell,my name is Aurora;
 - 👀 I’m interested in CG, art and science
 - 🌱I'm an Technical Artist from Alibaba;
-- 💞️ I’m looking to collaborate on Unreal engine, mit media lab
+- 💞️ I’m looking to collaborate with mit media lab
 - 📫 How to reach me wechat 17761712708
 
 <!---
